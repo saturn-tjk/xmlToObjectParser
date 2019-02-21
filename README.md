@@ -1,4 +1,7 @@
-# HttpTask
+
+Проект создан в декабре 2016г в рамках изучения Angular2, ECMAScript, TypeScript
+
+# xmlToObjectParser
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
 
